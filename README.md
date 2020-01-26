@@ -1,5 +1,3 @@
-# PBomb v1.0
-An open-source SMS/call bomber for Linux And Termux.
 <h1 align="center">PBomb v1.0</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
@@ -67,7 +65,10 @@ Run These Commands To Run PBomb
 To use the bomber type the following commands in Termux:
 ```
 pkg install git
-@@ -38,7 +54,15 @@ chmod +x PBomb.sh
+pkg install python 
+git clone https://github.com/HACK3RY2J/PBomb.git 
+cd PBomb
+chmod +x PBomb.sh
 ./PBomb.sh
 ```
 
@@ -84,7 +85,9 @@ Commands below provide instructions for Debian-based systems.
 To use the bomber type the following commands in Linux terminal:
 ```
 sudo apt install git
-@@ -47,10 +71,11 @@ cd PBomb
+pkg install python 
+git clone https://github.com/HACK3RY2J/PBomb.git 
+cd PBomb
 chmod +x PBomb.sh
 sudo bash PBomb.sh
 ```
@@ -98,7 +101,10 @@ To use the bomber type the following commands in macOS terminal:
 ```
 # Install Brew: 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-@@ -70,54 +95,40 @@ chmod +x PBomb.sh
+pkg install python 
+git clone https://github.com/HACK3RY2J/PBomb.git 
+cd PBomb
+chmod +x PBomb.sh
 sudo bash PBomb.sh
 ```
 
@@ -106,13 +112,57 @@ Notice: git installation methods are not universal and do differ between distrib
 installing git as per instructions above may not work.
 Please check out how to install `git` for your Linux distribution.
 Commands below provide instructions for Debian-based systems.
+## Demontrative Video:
 
 ## FEATURES 
  [+] Lots of SMS/call APIs
+- Watch Indian Bombing Method <a href="https://youtu.be/9KWkwsr_QGw">here</a><br>
+- Watch International Bombing Method <a href="https://youtu.be/JqsHkyIcnPM">here</a><br>
+
  [+] Unlimited and super-fast bombing
+## CONTRIBUTORS:
+
+ [+] International bombing available
+- **HACK3RY2J**<br>
+[-] Mail At: pandahackers127@gmail.com
+
+ [+] Call bombing
+- **HACK3RY2J**<br>
+[-] Check At: https://github.com/HACK3RY2J
+
  [+] Frequent updates
+- **HACK3RY2J**<br>
+
  [+] Automatic updating
+- **HACK3RY2J**<br>
+[-] Ping At: https://t.me/pandahackers
+
+- **HACK3RY2J**<br>
+[-] Mail At: pandahackers127@gmail.com
+
+## Donators:
+
+# CONTACT ME:
+
  [+] Easy to use and embed in code
+
+## DEMO
+<br>
+Watch Indian Bombing Method <a href="https://youtu.be/9KWkwsr_QGw">here</a> <br><br>
+Watch International Bombing Method <a href="https://youtu.be/JqsHkyIcnPM">here</a> <br><br>
+
+# CONTRIBUTORS
+<br><br>
+=>  HACK3RY2J<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Mail At: pandahackers127@gmail.com  <br>
+=>  HACK3RY2J<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Check At: https://github.com/HACK3RY2J  <br>
+=>  HACK3RY2J<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Ping At: NULL <br>
+=>  HACK3RY2J<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Ping At: https://t.me/pandahackers<br>
+=>  HACK3RY2J<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[-] Mail At: pandahackers127@gmail.com <br>
 
 # CONTACT
 Feel Free To Open An Issue...
@@ -120,9 +170,9 @@ Feel Free To Open An Issue...
            Mail: pandahackers127@gmail.com
 ```
                  Mail: pandahackers127@gmail.com<br>
-       YouTube Channel: https://youtube.com/c/pandahackers
+       YouTube Channel: https://www.youtube.com/c/Pandahackers
 ```
 
-           YouTube Channel: https://youtube.com/c/pandahackers
-  <a href="https://youtube.com/c/pandahackers">Check My Channel</a>
-<a href="https://youtube.com/c/pandahackers">Check Out My YouTube Channel</a>
+           YouTube Channel: https://www.youtube.com/c/Pandahackers
+  <a href="https://www.youtube.com/c/Pandahackers">Check My Channel</a>
+<a href="https://www.youtube.com/c/Pandahackers">Check Out My YouTube Channel</a>
