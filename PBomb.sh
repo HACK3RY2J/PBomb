@@ -1,9 +1,9 @@
 #!/bin/bash
 clear
-echo -e "\e[4;31m Panda Hackers Productions !!! \e[0m"
+echo -e "\e[4;31m Panda Hackers !!! \e[0m"
 echo -e "\e[1;34m Presents \e[0m"
 echo -e "\e[1;32m PBomb \e[0m"
-echo "Press Enter To Start"
+echo "Press Enter To Begin"
 read a1
 if [[ -s update.pandahackers ]];then
 echo "All Requirements Found...."
@@ -26,18 +26,18 @@ clear
 echo -e "\e[1;31m"
 figlet PBomb
 echo -e "\e[1;34m Created By \e[1;32m"
-toilet -f mono12 -F border Panda Hackers
+toilet -f mono12 -F border PH
 echo -e "\e[4;34m This Bomber Was Created By Panda Hackers \e[0m"
-echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
+echo -e "\e[1;34m For Any Queries Mail Us!!!\e[0m"
 echo -e "\e[1;32m           Mail: pandahackers127@gmail.com \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/PandaHackers/ \e[0m"
+echo -e "\e[4;32m   YouTube Page: https://youtube.com/c/PandaHackers/ \e[0m"
 echo " "
 echo -e "\e[4;31m Read Instruction Carefully !!! \e[0m"
 echo " "
 echo "Enter 1 To  Run SMS Bomber "
 echo "Enter 2 To  Run Call Bomber "
 echo "Enter 3 To  Update "
-echo "Enter  4 To  Check Features "
+echo "Enter 4 To  Check Features "
 echo "Enter 5 To  Exit "
 read ch
 if [ $ch -eq 1 ];then
