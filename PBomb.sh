@@ -14,7 +14,7 @@ echo .
 apt install figlet toilet python curl -y
 apt install python3-pip
 pip install -r requirements.txt
-echo This Script Was Made By Panda Hackers >update.speedx
+echo This Script Was Made By Panda Hackers >update.pandahackers
 echo Requirements Installed....
 echo Press Enter To Continue...
 read upd
@@ -57,7 +57,7 @@ exit 0
 elif [ $ch -eq 3 ];then
 clear
 apt install git -y
-echo -e "\e[1;34m Downloading Latest Files..."
+echo -e "\e[1;34m Getting Latest Files From Source..."
 git clone https://github.com/HACK3RY2J/PBomb
 if [[ -s PBomb/PBomb.sh ]];then
 cd PBomb
