@@ -18,7 +18,7 @@ echo .
 apt install figlet toilet python curl -y
 apt install python3-pip
 pip install -r requirements.txt
-echo This Script Was Made By Panda Hackers >update.pandahackers
+echo This Script Is Maintained By Panda Hackers >update.pandahackers
 echo Requirements Installed....
 echo Press Enter To Continue...
 read upd
@@ -31,7 +31,7 @@ echo -e "\e[1;31m"
 figlet PBomb
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border PH
-echo -e "\e[4;34m This Bomber Was Created By Panda Hackers \e[0m"
+echo -e "\e[4;34m This Bomber Is Maintained By Panda Hackers \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Us!!!\e[0m"
 echo -e "\e[1;32m           Mail: pandahackers127@gmail.com \e[0m"
 echo -e "\e[4;32m   YouTube Page: https://youtube.com/c/PandaHackers/ \e[0m"
@@ -61,7 +61,9 @@ exit 0
 elif [ $ch -eq 3 ];then
 clear
 apt install git -y
-echo -e "\e[1;34m Getting Latest Files From Source..."
+echo -e "\e[1;34m Requesting Update From Source..."
+echo -e "\e[1;34m Request Attempt Successful.."
+echo -e "\e[1;34m Updating Now..."
 git clone https://github.com/HACK3RY2J/PBomb
 if [[ -s PBomb/PBomb.sh ]];then
 cd PBomb
