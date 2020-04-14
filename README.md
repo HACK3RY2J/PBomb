@@ -1,9 +1,12 @@
-<h1 align="center">PBomb v1.0</h1>
+<h1 align="center">PBomb v1.1</h1>
 <p align="center">An open-source SMS/call bomber for Linux And Termux.</p><br>
 
 This script is only for educational purposes or to prank.
 Do not use this to harm others.
 None of the developers/contributors are responsible for the misuse of PBomb.
+## Updates
+**V1.1**
+- Adding Lolcat To Make More Colourful Start.
 ## Note:
 
 **You've been warned.**
