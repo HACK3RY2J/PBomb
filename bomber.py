@@ -542,11 +542,6 @@ while True:
         cc = cc.strip()
     pn = input("\tEnter Target Number: +" + cc + " ")
     pn = remsp(pn)
-    if pn == "8850007819":
-        print("Soory You Cant Bomb This Number")
-        print("This Is A VIP Number")
-        input('Press Enter To Exit...')
-        exit()
     if len(cc) >= 4 or len(cc) < 1:
         print('\n\nInvalid Country Code..\n\t\tCountry Codes Are Generally 1-3 digits...\n')
         continue
