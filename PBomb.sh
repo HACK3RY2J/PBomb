@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-echo -e "\e[4;31m Panda Hackers !!! \e[0m"
+echo -e "\e[4;31m SHADOW&DILUTER !!! \e[0m"
 echo -e "\e[1;34m Presents \e[0m"
 echo -e "\e[4;31m A Special \e[0m"
 echo -e "\e[4;31m Ultra Fast!!! \e[0m"
@@ -19,7 +19,7 @@ apt install figlet toilet python curl ruby -y
 apt install python3-pip
 gem install lolcat
 pip install -r requirements.txt
-echo This Script Is Maintained By Panda Hackers >update.pandahackers
+echo This Script Is Maintained By SHADOW&DILUTER >update.SHADOW&DILUTER
 echo Requirements Installed....
 echo Press Enter To Continue...
 read upd
@@ -32,10 +32,10 @@ echo -e "\e[1;31m"
 figlet -f slant PBomb | lolcat
 echo -e "\e[1;34m Created By \e[1;32m"
 toilet -f mono12 -F border PH | lolcat
-echo -e "\e[4;34m This Bomber Is Maintained By Panda Hackers \e[0m"
+echo -e "\e[4;34m This Bomber Is Maintained By SHADOW&DILUTER \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Us!!!\e[0m"
-echo -e "\e[1;32m           Mail: pandahackers127@gmail.com \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://youtube.com/c/PandaHackers/ \e[0m"
+echo -e "\e[1;32m           Mail: ABCD@gmail.com \e[0m"
+echo -e "\e[4;32m   YouTube Page: https://youtube.com \e[0m"
 echo " "
 echo -e "\e[4;31m Read Instruction Carefully !!! \e[0m"
 echo " "
@@ -55,7 +55,7 @@ exit 0
 elif [ $ch -eq 2 ];then
 clear
 echo -e "\e[1;32m"
-echo 'Call Bomb By Panda Hackers'> call.xxx
+echo 'Call Bomb By SHADOW&DILUTER '> call.xxx
 python3 bomber.py call
 rm *.xxx >/dev/null 2>&1
 exit 0
